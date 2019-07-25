@@ -1,38 +1,23 @@
-# Cs 342 - Operating Systems Projects (2019 Spring)
+# Cs 353 - Database Systems Programming Assignment (2019 Spring)
  
-All the four projects are listed here.
+In this assignment, I will first write a simple Java application to connect to a MySQL database and modify it. Next, I am required to design a basic internet application using PHP on top of this database.
  
-## Project 1 - A Simple Shell Program
+## Connecting to the database with a Java application
 
-- Practice process creation and execution in Linux.
-- Practice interprocess communication (IPC), pipes.
-- Practice designing and doing experiments, statistics knowledge.
-- Individual
+For this part of the assignment, I created an empty database using MySQL console, and then writed a simple Java application to connect and interact with this database.
 
-## Project 2 - Multi-threaded Programs and Synchronization
 
-- Multithreaded programming with Pthreads (POSIX threads).
-- Practicing synchronization, use of lock variables.
-- Designing and performing experiments; applying probability and statistics knowledge.
-- Individual
+## A simple Web based application using PHP
 
-## Project 3 - Synchronization and Deadlocks
+For this part of the assignment, I designed an internet application on top of the simple bank database I created above. In particular, I implemented a website that involves the middle and presentation tiers of a web application and makes use of the bank database at the data management tier. 
 
-- Practice multi-threaded programming.
-- Practice synchronization: mutex and condition variables; Pthreads API. 
-- Practice deadlock detection and avoidance methods.
-- Practice designing and performing experiments.
-- Individual
+The website should includes the following pages
 
-## Project 4 - In-Memory File System Structures
-
-- Practice file systems.
-- Practice accessing in-memory file system structures. 
-- Practice kernel module programming.
-- Touch to the Linux kernel.
-- Individual
-
-## Copyright and Licence
+-Index Page
+-Customer Welcome Page
+-Money Transfer Page
+-Connection
+-Logout
 
 © Burak Korkmaz, Bilkent University Computer Science
 
