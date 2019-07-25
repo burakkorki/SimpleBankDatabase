@@ -19,6 +19,8 @@ The website should includes the following pages
 -Connection
 -Logout
 
+## Copyright and Licence
+
 © Burak Korkmaz, Bilkent University Computer Science
 
 Licenced under the [MIT Licence](LICENCE).
