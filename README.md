@@ -23,4 +23,4 @@ The website should includes the following pages
 
 © Burak Korkmaz, Bilkent University Computer Science
 
-Licenced under the [MIT Licence](LICENCE).
+Licenced under the [MIT Licence](LICENSE).
